@@ -1,0 +1,11 @@
+{
+  "name": "sweet-time-ago",
+  "version": "1.0.0",
+  "description": "About how long before the script function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liuxionghui",
+  "license": "ISC"
+}
